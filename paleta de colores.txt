@@ -1,0 +1,12 @@
+página - color de fondo: #EEF7FF
+
+header - color de fondo: #4D869C
+header - color de letra: #fff
+
+barra de navegaión  - color de fondo:: #7AB2B2
+barra de navegaión - color de letra: #fff
+
+barra de navegaión - contraste : #4D869C
+
+pie de pagina - color de fondo: #CDE8E5
+
